@@ -38,7 +38,7 @@ $ npm install
 
 ```sh
 $ npm run start
-```
+``` 
 
 # Start Playing!
 
